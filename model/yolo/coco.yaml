@@ -1,6 +1,6 @@
-train : /content/BRIN/model/yolo/train/images
-val   : /content/BRIN/model/yolo/val/images
-test  : /content/BRIN/model/yolo/test/images
+train : /content/drArso/model/yolo/train/images
+val   : /content/drArso/model/yolo/val/images
+test  : /content/drArso/model/yolo/test/images
 
-nc    : 1
-names : ['ecoli']
+nc    : 4
+names : ['lecet_geser', 'lecet_tekan', 'luka_terbuka', 'memar']
