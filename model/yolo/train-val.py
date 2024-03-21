@@ -24,6 +24,6 @@ def train_yolo(model_type, data_path, epochs):
 # Example usage
 model_type = input("Enter YOLO model type (yolov8n, yolov8s, yolov8m, yolov8l, yolov8x): ")
 data_path = '/content/drArso/model/yolo/coco.yaml'
-epochs = 100
+epochs = 25
 
 train_yolo(model_type, data_path, epochs)
