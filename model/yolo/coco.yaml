@@ -1,0 +1,6 @@
+train : /content/BRIN/model/yolo/train/images
+val   : /content/BRIN/model/yolo/val/images
+test  : /content/BRIN/model/yolo/test/images
+
+nc    : 1
+names : ['ecoli']

@@ -1,0 +1,4 @@
+lecet_geser
+lecet_tekan
+luka_terbuka
+memar
